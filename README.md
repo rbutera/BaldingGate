@@ -32,6 +32,32 @@ Welcome to the BaldingGate mod pack! This project provides a collection of mods 
    - Select the modlist "BaldingGate".
    - Click the modded button before launching BG3.
 
+## Reshade
+
+I've packaged the Pure preset for reshade as part of this modpack.
+
+If you want to use reshade:
+
+1. Download [Reshade with Addon Support](https://reshade.me/downloads/ReShade_Setup_6.2.0_Addon.exe)
+2. Run the installer, and select the DirectX11 version of Baldur's Gate 3 (or the Vulkan version if you use that)
+3. When the option presents itself to select which shaders you want to use, pick the option at the bottom to select an ini file.
+4. Browse to `Pure_1.0.2.ini` and select it.
+5. Launch BG3 and press `Home` on your keyboard
+6. Navigate to the "Addon" section. You'll find the Reshade Effect Toggler there.
+7. Reshade > Addons > List of Toggle Group (make sure It's enabled) > Settings.
+8. In the settings, double-click on `0x11c53bba` so It's yellow.
+9. "Apply all enabled techniques" (tick yes).
+10. Match swapchain to "Resolution".
+11. Invocation location > "On render target change".
+12. In the 'Home' tab click the 'Edit global preprocessor definitions' button from the bottom pane.
+13. Set RESHADE_DEPTH_INPUT_IS_REVERSED to 1.
+14. In the 'Add-ons' tab under Generic Depth toggle 'Copy depth buffer before clear operations' to be selected.
+15. Exit window and press done.
+
+For a full video, check out this video on YouTube by Flump:
+
+[![Pure ReShade Installation and Setup](http://img.youtube.com/vi/DK81gn1Zlgg/0.jpg)](http://www.youtube.com/watch?v=DK81gn1Zlgg "Pure ReShade Installation and Setup")
+
 ## Running BG3 as an Administrator
 
 1. **Locate the `BG3ModdingUtil.exe` File**:
