@@ -1,0 +1,8 @@
+{
+  "name": "BaldingGate",
+  "version": "1.1.0",
+  "description": "Baldurs Gate 3 Modpack",
+  "repository": "https://github.com/rbutera/baldinggate",
+  "releaseName": "BaldingGate",
+  "notes": "Generic release notes for version 1.0.6"
+}
