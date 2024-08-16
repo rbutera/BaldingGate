@@ -84,6 +84,34 @@ For a full video, check out this video on YouTube by Flump:
 7. **Confirmation**:
    - The next time you run `BG3ModdingUtil.exe`, it will prompt you for administrator permissions.
 
+## Harem Edition
+
+BaldingGate has an (optional) alternative modlist called "Harem Edition". This edition has a gender-swapped Astarion, Gale and Wyll for those of you who want to have a monogender romance harem for your Tav.
+To use this modlist:
+
+1. Download [ the Harem Edition expansion ](https://qiwi.gg/) modpack (as well as [the original BaldingGate modpack, above](https://qiwi.gg/file/cXNX9835-Mods))
+2. select `BaldingGate - Harem Edition` when selecting your modlist in BG3ModdingUtil.exe
+
+### How to customize the appearance of female Astarion, Gale and Wyll
+
+- Recruit Astarion, Wyll and Gale.
+- Go to camp and select the character you wish to edit.
+- Use the Appearance Edit -> Resculp spell.
+- Select their origin character, for example if you are editing Astarion, select Astarion.
+- Change the body type to 1.
+- Make your changes.
+- Do not change their name.
+- Do not change their guardian.
+- Finish. Their portraits will update when you level up or respec if they haven't already.
+
+For more information check out the mod pages for the original mods:
+
+- [Femstarion](https://www.nexusmods.com/baldursgate3/mods/2446)
+- [Wylla](https://www.nexusmods.com/baldursgate3/mods/2565)
+- [Gale Pal](https://www.nexusmods.com/baldursgate3/mods/2503)
+
+Harem Edition also includes voice packs that replace their voices.
+
 ## Full List of Mods
 
 - **AI Allies**: Introduces AI-controlled allies to assist during gameplay.

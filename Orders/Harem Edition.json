@@ -219,6 +219,14 @@
     {
       "UUID": "60de8215-7e9f-4cb6-9763-05aa6aecf257",
       "Name": "AppearanceEditOrigins"
+    },
+    {
+      "UUID": "043cc0ac-4e67-4742-8ab1-3ca991fd7d62",
+      "Name": "ShieldsVisibleButNotCutscene2024Again"
+    },
+    {
+      "UUID": "cffcf7ef-0b83-4ece-ad06-12a32f93e982",
+      "Name": "BasketEquipmentCampClothing"
     }
   ]
 }

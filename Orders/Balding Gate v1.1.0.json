@@ -73,6 +73,10 @@
       "Name": "Everybody Dyes Unlimited Dyeing."
     },
     {
+      "UUID": "LONGSTRI-DERA-OE12-4444-deeeeeeeeeef",
+      "Name": "Longstrider AoE"
+    },
+    {
       "UUID": "2337b4f9-67bd-4fb6-8a3e-0d0ded76c12b",
       "Name": "UnlockLevelCurve_Patch_Improvement_Lv2"
     },
@@ -171,6 +175,34 @@
     {
       "UUID": "60ac6eff-b503-492d-867f-4e7cacf7f57d",
       "Name": "YieldToTemptation"
+    },
+    {
+      "UUID": "da0b99ca-4406-49c1-bef9-3a08621280a2",
+      "Name": "Tav's Hair Salon - Tav's Hairpack"
+    },
+    {
+      "UUID": "8c611d4b-75d9-40eb-ad61-15f898396e12",
+      "Name": "Faces of Faerûn"
+    },
+    {
+      "UUID": "ef0fb0e3-a4e1-4672-84b3-bc63260e12af",
+      "Name": "Vemperen's Other Heads"
+    },
+    {
+      "UUID": "7b8366bd-abc1-4f9f-ba9d-585549b4a750",
+      "Name": "AppearanceEditEnhanced"
+    },
+    {
+      "UUID": "60de8215-7e9f-4cb6-9763-05aa6aecf257",
+      "Name": "AppearanceEditOrigins"
+    },
+    {
+      "UUID": "043cc0ac-4e67-4742-8ab1-3ca991fd7d62",
+      "Name": "ShieldsVisibleButNotCutscene2024Again"
+    },
+    {
+      "UUID": "cffcf7ef-0b83-4ece-ad06-12a32f93e982",
+      "Name": "BasketEquipmentCampClothing"
     }
   ]
 }

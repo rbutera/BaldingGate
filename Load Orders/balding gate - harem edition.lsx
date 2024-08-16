@@ -64,6 +64,9 @@
               <attribute id="UUID" value="bad404aa-feed-a0ee-9999-feedfeed0002" type="FixedString" />
             </node>
             <node id="Module">
+              <attribute id="UUID" value="LONGSTRI-DERA-OE12-4444-deeeeeeeeeef" type="FixedString" />
+            </node>
+            <node id="Module">
               <attribute id="UUID" value="2337b4f9-67bd-4fb6-8a3e-0d0ded76c12b" type="FixedString" />
             </node>
             <node id="Module">
@@ -137,6 +140,45 @@
             </node>
             <node id="Module">
               <attribute id="UUID" value="60ac6eff-b503-492d-867f-4e7cacf7f57d" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="da0b99ca-4406-49c1-bef9-3a08621280a2" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="d4206b6c-9753-4d35-beac-209e04125f33" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="c35b336b-1545-434c-9b65-b4f517dd5920" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="5935aee7-8e5d-4a1d-ab45-629ef5b41beb" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="06b0dc10-735c-43cd-8d2e-e859e1822fce" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="f7b1fb5c-6363-474f-801c-db9550518883" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="4e812f84-8008-4392-bdc8-b297de708726" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="8c611d4b-75d9-40eb-ad61-15f898396e12" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="ef0fb0e3-a4e1-4672-84b3-bc63260e12af" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="7b8366bd-abc1-4f9f-ba9d-585549b4a750" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="60de8215-7e9f-4cb6-9763-05aa6aecf257" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="043cc0ac-4e67-4742-8ab1-3ca991fd7d62" type="FixedString" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="cffcf7ef-0b83-4ece-ad06-12a32f93e982" type="FixedString" />
             </node>
           </children>
         </node>
@@ -273,6 +315,13 @@
               <attribute id="MD5" value="" type="LSString" />
               <attribute id="Name" value="Everybody Dyes Unlimited Dyeing." type="LSString" />
               <attribute id="UUID" value="bad404aa-feed-a0ee-9999-feedfeed0002" type="FixedString" />
+              <attribute id="Version64" value="36028797018963968" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Longstrider AoE" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Longstrider AoE" type="LSString" />
+              <attribute id="UUID" value="LONGSTRI-DERA-OE12-4444-deeeeeeeeeef" type="FixedString" />
               <attribute id="Version64" value="36028797018963968" type="int64" />
             </node>
             <node id="ModuleShortDesc">
@@ -449,6 +498,97 @@
               <attribute id="Name" value="YieldToTemptation" type="LSString" />
               <attribute id="UUID" value="60ac6eff-b503-492d-867f-4e7cacf7f57d" type="FixedString" />
               <attribute id="Version64" value="36028797018963968" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="DFHairPack" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Tav's Hair Salon - Tav's Hairpack" type="LSString" />
+              <attribute id="UUID" value="da0b99ca-4406-49c1-bef9-3a08621280a2" type="FixedString" />
+              <attribute id="Version64" value="37295449446547457" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="GalePals" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="GalePals" type="LSString" />
+              <attribute id="UUID" value="d4206b6c-9753-4d35-beac-209e04125f33" type="FixedString" />
+              <attribute id="Version64" value="144115196665790673" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="DaddyKMommaWyll" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="DaddyKMommaWyll" type="LSString" />
+              <attribute id="UUID" value="c35b336b-1545-434c-9b65-b4f517dd5920" type="FixedString" />
+              <attribute id="Version64" value="144115196665790673" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Femstarion" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Femstarion" type="LSString" />
+              <attribute id="UUID" value="5935aee7-8e5d-4a1d-ab45-629ef5b41beb" type="FixedString" />
+              <attribute id="Version64" value="144115196665790673" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="FemaleGaleDialogs" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Female Gale Dialogs" type="LSString" />
+              <attribute id="UUID" value="06b0dc10-735c-43cd-8d2e-e859e1822fce" type="FixedString" />
+              <attribute id="Version64" value="36169536654802944" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="FemaleAstarionDialogs" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Female Astarion Dialogs" type="LSString" />
+              <attribute id="UUID" value="f7b1fb5c-6363-474f-801c-db9550518883" type="FixedString" />
+              <attribute id="Version64" value="36169538802286592" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="FemaleWyllDialogs" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Female Wyll Dialogs" type="LSString" />
+              <attribute id="UUID" value="4e812f84-8008-4392-bdc8-b297de708726" type="FixedString" />
+              <attribute id="Version64" value="36169534507319296" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Aloija_New_Heads" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Faces of Faerûn" type="LSString" />
+              <attribute id="UUID" value="8c611d4b-75d9-40eb-ad61-15f898396e12" type="FixedString" />
+              <attribute id="Version64" value="36591746972385280" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="vemperens_heads" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Vemperen's Other Heads" type="LSString" />
+              <attribute id="UUID" value="ef0fb0e3-a4e1-4672-84b3-bc63260e12af" type="FixedString" />
+              <attribute id="Version64" value="36028797018963971" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="AppearanceEditEnhanced" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="AppearanceEditEnhanced" type="LSString" />
+              <attribute id="UUID" value="7b8366bd-abc1-4f9f-ba9d-585549b4a750" type="FixedString" />
+              <attribute id="Version64" value="108086414679212032" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="AppearanceEditOrigins" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="AppearanceEditOrigins" type="LSString" />
+              <attribute id="UUID" value="60de8215-7e9f-4cb6-9763-05aa6aecf257" type="FixedString" />
+              <attribute id="Version64" value="72057596185411584" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="ShieldsVisibleButNotCutscene2024Again" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="ShieldsVisibleButNotCutscene2024Again" type="LSString" />
+              <attribute id="UUID" value="043cc0ac-4e67-4742-8ab1-3ca991fd7d62" type="FixedString" />
+              <attribute id="Version64" value="36028797018963968" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="BasketEquipmentCampClothing" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="BasketEquipmentCampClothing" type="LSString" />
+              <attribute id="UUID" value="cffcf7ef-0b83-4ece-ad06-12a32f93e982" type="FixedString" />
+              <attribute id="Version64" value="36169545244737536" type="int64" />
             </node>
           </children>
         </node>
