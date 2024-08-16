@@ -19,7 +19,7 @@ RELEASE_DIR="release"
 mkdir -p "$RELEASE_DIR"
 
 # Create a zip of the project (change this command to suit your project structure)
-zip -r "$RELEASE_DIR/$RELEASE_NAME-$VERSION.zip" . -x "*.git*" "*.DS_Store"
+zip -r "$RELEASE_DIR/$RELEASE_NAME-$VERSION.zip" . -x "*.git*" "*.DS_Store" ".tmp.driveupload" "_Logs" "_ErrorLogs" "BG3Config-Rai.cfg" "Screenshots" "Mods"
 
 # Create a release on GitHub
 gh release create "$TAG" "$RELEASE_DIR/$RELEASE_NAME-$VERSION.zip" --title "$RELEASE_NAME $VERSION" --notes "$NOTES"
