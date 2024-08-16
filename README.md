@@ -89,7 +89,7 @@ For a full video, check out this video on YouTube by Flump:
 BaldingGate has an (optional) alternative modlist called "Harem Edition". This edition has a gender-swapped Astarion, Gale and Wyll for those of you who want to have a monogender romance harem for your Tav.
 To use this modlist:
 
-1. Download [ the Harem Edition expansion ](https://qiwi.gg/) modpack (as well as [the original BaldingGate modpack, above](https://qiwi.gg/file/cXNX9835-Mods))
+1. Download [ the Harem Edition expansion ](https://qiwi.gg/file/5gbE6767-HaremEdition) modpack (as well as [the original BaldingGate modpack, above](https://qiwi.gg/file/cXNX9835-Mods))
 2. select `BaldingGate - Harem Edition` when selecting your modlist in BG3ModdingUtil.exe
 
 ### How to customize the appearance of female Astarion, Gale and Wyll
