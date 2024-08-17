@@ -10,27 +10,107 @@ Welcome to the BaldingGate mod pack! This project provides a collection of mods 
 - **Steam Achievements Enabled**: Play with achievements while using mods.
 - **Native Camera Tweaks**: Enhance your camera experience.
 - **BG3ModdingUtils**: Quickly switch between vanilla and mod profiles.
-- **Various Mods**: Mostly quality of life and interface updates, including BasketEquipmentNSFW.
+- **Various Mods**: Mostly quality of life and interface updates. See [the full list of mods below](#mods-included)
 
 ## Installation Instructions
 
 1. Download the latest release `.zip` from the [Releases Page](https://github.com/rbutera/BaldingGate/releases).
-2. Extract the contents to a permanent folder.
-3. Change the compatibility settings of `BG3ModdingUtil.exe` to run as administrator ([click here to see how](#running-bg3-as-an-administrator)).
-4. Update `BG3Config.cfg` to include the full path of your Baldur's Gate 3 Steam folder (usually `C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3`).
-5. Download the modpack `Mods.7z`:
+2. Extract the contents to a permanent folder, for example a folder called `BaldingGate` on your Desktop.
+3. Open the `BaldingGate` folder and set the compatibility settings of `BG3ModdingUtil.exe` to run as administrator ([click here to see how](#running-bg3-as-an-administrator)).
+4. If you have Baldur's Gate 3 installed somewhere other than Steam on your `C:\` drive in Windows, edit `BG3Config.cfg` to include the full path of your Baldur's Gate 3 Steam folder (usually `C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3`).
+5. IMPORTANT: Download the modpack `Mods.7z`:
    - Download [from Qiwi.gg here](https://qiwi.gg/file/cXNX9835-Mods)
    - Use 7zip or WinRAR to extract into a folder called Mods inside your BaldingGate folder.
    - It should [look like this](./ModsLocation.png) - inside Mods should be a bunch of .pak files
-6. Open Steam and set the launch options for BG3 to `--skip-launcher`.
+6. (OPTIONAL): Open Steam and set the launch options for BG3 to `--skip-launcher`.
 7. To play BG3 in vanilla mode:
    - Open `BG3ModdingUtil`.
    - Select the vanilla option.
    - Launch BG3 from Steam.
 8. To play BG3 with mods:
    - Open `BG3ModdingUtil`.
-   - Select the modlist "BaldingGate".
+   - Select the modlist "BaldingGate" or "BaldingGate - Harem Edition".
    - Click the modded button before launching BG3.
+
+## Mods Included
+
+### User Interface:
+1. **BCPP 16x9 4chars 5x10 inventory** - UI modification for inventory layout
+2. **Better Containers 6x7 85** - Improves container UI and capacity
+3. **Better Cursor Text Panel** - Enhances cursor and text panel visibility
+4. **Better HotBar 2 169 4x28 scale 86** - Customizes the hotbar UI
+5. **Better Inventory UI Default for Improved UI** - Enhances inventory interface
+6. **Better Target Info** - Provides more detailed information on targets
+7. **Better Tooltips** - Improves tooltip information and readability
+8. **Dynamic Sidebar 169** - Adjusts sidebar UI for 16:9 aspect ratio
+9. **Improved UI** - Overall UI enhancement mod
+10. **Improved UI Assets** - Additional assets for Improved UI mod
+11. **No Press Any Key Menu** - Removes "Press Any Key" prompt
+12. **Show Approval Ratings English** - Displays companion approval ratings for dialogue choices
+13. **Slightly Better Topbar 16:9** - Improves top UI bar for 16:9 aspect ratio
+
+### Quality of Life:
+1. **AI Allies** - Lets you use AI to control companions
+2. **AIMRYAX Loading Screens** - Custom loading screen modifications
+3. **Auto Sell Loot** - Automatically sells designated loot items
+4. **Autoloot Aura** - Automatically collects nearby loot
+5. **Auto Send Food To Camp** - Automatically sends food items to your camp
+6. **Bags Bags Bags Reforged** - Enhances inventory management with additional bags
+7. **Configurable Run Speed** - Allows customization of character movement speed
+8. **Druid QoL** - Quality of life improvements for Druid class
+9. **Event Autosave** - Automatically saves the game at key events
+10. **Fallen Mark As Read** - Marks fallen dialogue options as read
+11. **Illuminate Dice Set** - Adds glowing dice options
+12. **Infinite Turn Fix** - Fixes potential infinite turn bugs
+13. **Kv Camp Events** - Notifies you when you have camp events available
+14. **Mod Configuration Menu** - Adds a menu to configure installed mods
+15. **Mod Fixer** - Attempts to fix conflicts between mods
+16. **No Camera Move** - Prevents automatic camera movement in ranged combat
+17. **No Intro Pak** - Removes or modifies intro sequence
+18. **Resurrect NPCs** - Allows resurrection of non-player characters
+19. **Sit This One Out 2** - Allows characters to sit out of combat 
+20. **50% Slower Blood** - Makes you less bloody in cutscenes
+21. **Spawn Tutorial Chest** - Lets you summon the tutorial chest
+22. **Stackable Items** - Allows more items to be stacked in inventory
+23. **Teleport To You** - Allows teleportation of party members when they get stuck
+24. **Unofficial Bug Fixer** - Attempts to fix various game bugs
+25. **Volition Cabinet** - Required as a dependency for various mods
+26. **Yield To Temptation** - Anti-cheat for the tutorial chest
+
+### Character Creation/Customization:
+
+1. **Distinctive Dyes** - Changes dye icons to represent what the actual color of the dye will look like
+2. **Appearance Edit Enhanced** - Expands character appearance editing options
+3. **Appearance Edit Origins** - Allows editing of origin characters' appearances
+4. **Basket Equipment Camp Clothing** - Makes Basket Equipment gear camp clothing instead of using your gear slot
+5. **Basket Equipment NSFW** - Adds various gear options. Some are NSFW
+6. **Better Dyeing** - Improves the dyeing system for equipment
+7. **Customizer** - Adds more customization options
+8. **Everybody Dyes** - Expands dyeing options to more items
+9. **Faces of Faerûn** - Adds new face options for characters
+10. **Patches for VFX Heads** - Fixes for visual effects on character heads
+11. **Shields Visible But Not Cutscene 2024 Again** - Makes shields visible except in cutscenes
+12. **Tav's Hairpack** - Adds more hairstyle options
+13. **Transmog Enhanced** - Lets you transmog (change the appearance) of your gear
+14. **Vemperen Heads Fixed** - Great custom head models
+15. **Vessnelle Hair 1** - Adds new hairstyles (pack 1)
+16. **Vessnelle Hair 2** - Adds new hairstyles (pack 2)
+17. **Vessnelle Hair 3** - Adds new hairstyles (pack 3)
+18. **Vessnelle Hair 4** - Adds new hairstyles (pack 4)
+
+### Gameplay Tweaks:
+
+1. **Configurable Party Limit** - Enables adjusting the maximum party size
+2. **Druid Perfection** - Enhances Druid class features
+3. **Gabett Hand Crossbows V2** - Adds various hand crossbows to vendors and in rare locations
+4. **Longstrider AoE** - Modifies Longstrider spell to affect an area
+5. **Modified Short Rest 50** - Adjusts the short rest mechanic to give you 50% of your resources
+6. **No Romance Limit** - Removes restrictions on romance options
+7. **Permanent Longstrider No VFX** - Makes Longstrider spell permanent without visual effects
+8. **Unlock Level Curve** - Lets you level past 12
+9. **Unlock Level Curve Patch Improvement Lv2** - Gives you feats every 2 levels
+10. **Unlock Level Curve Patch XP x075** - Adjusts XP gain for level curve mod
+
 
 ## Reshade
 
@@ -112,42 +192,22 @@ For more information check out the mod pages for the original mods:
 
 Harem Edition also includes voice packs that replace their voices.
 
-## Full List of Mods
+### Harem Edition mods
 
-- **AI Allies**: Introduces AI-controlled allies to assist during gameplay.
-- **Auto Sell Loot**: Automatically sells loot that is picked up, streamlining inventory management.
-- **Autoloot Aura**: Creates an aura around the player to automatically loot nearby items.
-- **Auto Send Food To Camp**: Automatically sends food items to the camp storage.
-- **Basket Equipment NSFW**: Adds various equipments to the game.
-- **BCPP 16x9 4chars 5x10 inventory**: Adjusts the inventory layout for better visibility and usability on 16:9 screens.
-- **Better Containers 6x785**: Improves the container UI, allowing for better organization and access to items.
-- **Better HotBar 2 169 4x28 scale 86**: Enhances the hotbar layout for improved accessibility and aesthetics.
-- **Better Inventory UI Default for Improved UI**: Replaces the default inventory UI with a more user-friendly version.
-- **Better Tooltips**: Provides enhanced tooltips for items, making it easier to understand their effects and usage.
-- **Configurable Run Speed**: Allows players to adjust their run speed to suit their playstyle.
-- **Druid Perfection**: Enhances Druid class abilities and features for improved gameplay.
-- **Druid QoL**: Implements quality of life improvements specifically for Druid players.
-- **Event Autosave**: Adds automatic saving during key events to prevent loss of progress.
-- **Improved UI**: Overhauls the user interface for a more streamlined gaming experience.
-- **Improved UI Assets**: Contains assets needed for the Improved UI mod, ensuring proper functionality.
-- **Infinite Turn Fix**: Fixes the issue of infinite turns during combat scenarios.
-- **Kv Camp Events**: Adds new camp events for greater immersion and storytelling.
-- **Longstrider AoE**: Modifies the Longstrider ability to affect multiple targets in an area.
-- **Mod Configuration Menu**: Provides a menu for configuring various mods easily.
-- **Modified Short Rest**: Short rest now returns 50% of your resources (spell slots etc)
-- **Mod Fixer**: Fixes compatibility issues between mods, ensuring they work together smoothly.
-- **No Intro**: Skips the intro sequence when starting the game.
-- **No Press Any Key Menu**: Removes the "Press Any Key" prompt at the start of the game.
-- **No Romance Limit**: Eliminates restrictions on romantic interactions with NPCs.
-- **Permanent Longstrider No VFX**: Allows the Longstrider ability to persist without visual effects.
-- **Show Approval Ratings - English**: Displays the approval ratings of party members in the user's language.
-- **Slightly Better Topbar 169**: Enhances the top bar of the UI for better functionality and aesthetics.
-- **Teleport To You**: Allows players to teleport allies or NPCs directly to their location.
-- **Unlock Level Curve**: Modifies the experience curve for leveling up characters.
-- **Unlock Level Curve Patch Improvement Lv2**: A patch for further improving the leveling curve mechanics.
-- **Unlock Level Curve Patch XP x0.75**: Adjusts the experience points required for leveling to a reduced rate (x0.75).
-- **Vessnelle Hair**: Adds multiple new hairstyle options for character customization.
 
+1. **Femstarion** - Female version of Astarion
+2. **Gale Pal** - Female version of Gale
+3. **Wylla** - Female version of Wyll
+0. **Female Astarion Dialogs** - Gender-swapped dialogues for Astarion
+0. **Female Astarion Voice Conversion Style H** - Voice mod for Astarion
+0. **Female Gale Dialogs** - Gender-swapped dialogues for Gale
+0. **Female Gale Voice Conversion Style C** - Voice mod for Gale
+0. **Female Wyll Dialogs** - Gender-swapped dialogues for Wyll
+0. **Female Wyll Voice Conversion Style N** - Voice mod for Wyll
+0. **Fem Astarion Style 0 Spells Combat Interaction Add on** - Fixes Astarion voices in combat
+0. **Fem Astarion Voice H Spells Combat Interaction Add on** - Fixes Astarion voices in combat
+0. **Fem Gale Voice C Spells Combat Interaction Add on** - Fixes Gale voices in combat
+0. **Fem Wyll Voice U Spells Combat Interaction Add on** - Fixes Wyll's voices in combat
 
 ## Disclaimer and Copyright
 
