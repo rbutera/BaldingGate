@@ -209,6 +209,25 @@ Harem Edition also includes voice packs that replace their voices.
 0. **Fem Gale Voice C Spells Combat Interaction Add on** - Fixes Gale voices in combat
 0. **Fem Wyll Voice U Spells Combat Interaction Add on** - Fixes Wyll's voices in combat
 
+## Hair Loss Edition
+
+This is a minimal modlist that is designed for a completely cheat-free honor mode playthrough.
+
+To use this modlist, select Hair Loss Edition in BG3ModdingUtil and make sure the following files are not in your `Mods` folder (move them somewhere else so you can put them back in to load your other save files)
+
+- Fem Astarion Voice H Spells-Combat-Interaction Add=on.pak
+- Fem Gale Voice C Spells-Combat-Interaction Add-on.pak
+- Fem Wyll Voice U Spells-Combat-Interaction Add-on.pak
+- Female Astarion Voice Conversion Style H v2.2.pak
+- Female Gale Voice Conversion Style C v2.2.pak
+- Female Wyll Voice Conversion Style N v2.2.pak
+- FemaleAstarionDialogs.pak
+- FemaleGaleDialogs.pak
+- FemaleWyllDialogs.pak
+- Femstarion.pak
+- GalePals.pak
+- Fem Astarion Style 0 Spells-Combat-Interaction Add-on.pak
+
 ## Disclaimer and Copyright
 
 The mods included in this pack are not my creations and are the copyright of their original creators. Baldur's Gate 3 is a wonderful game and the copyright is owned by Larian Studios. 
