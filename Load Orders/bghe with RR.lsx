@@ -180,6 +180,9 @@
             <node id="Module">
               <attribute id="UUID" value="cffcf7ef-0b83-4ece-ad06-12a32f93e982" type="FixedString" />
             </node>
+            <node id="Module">
+              <attribute id="UUID" value="55a7babf-1b39-4656-8fc1-650b4879a10b" type="FixedString" />
+            </node>
           </children>
         </node>
         <node id="Mods">
@@ -589,6 +592,13 @@
               <attribute id="Name" value="BasketEquipmentCampClothing" type="LSString" />
               <attribute id="UUID" value="cffcf7ef-0b83-4ece-ad06-12a32f93e982" type="FixedString" />
               <attribute id="Version64" value="36169545244737536" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Reliable Rolls" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Reliable Rolls - C" type="LSString" />
+              <attribute id="UUID" value="55a7babf-1b39-4656-8fc1-650b4879a10b" type="FixedString" />
+              <attribute id="Version64" value="36873221949095936" type="int64" />
             </node>
           </children>
         </node>
